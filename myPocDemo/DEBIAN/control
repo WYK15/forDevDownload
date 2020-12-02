@@ -1,0 +1,8 @@
+Package: myP
+Version: 1.0.1
+Section: utils
+Architecture: iphoneos-arm
+Installed-Size: 512
+Maintainer:unknow
+Description:lalalades
+
